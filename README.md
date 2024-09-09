@@ -46,7 +46,7 @@ Este projeto utiliza a `branch main` da **API** [hotwheels-api](https://github.c
    git clone https://github.com/adsPucrsOnline/DesenvolvimentoFrontend.git
    ```
 
-2. Entre pasta cd hotwheels-api no terminal:
+2. Entre pasta hotwheels-api:
 
    ```bash
    cd DesenvolvimentoFrontend
