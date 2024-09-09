@@ -80,7 +80,7 @@ Siga as instruções abaixo para instalar e utilizar este front-end:
    git clone https://github.com/thiagorpc/pucrs-desenvolvimento-sistemas-frontend-fase-2.git
    ```
 
-2. Entre pasta context-react-project no terminal:
+2. Entre pasta do projeto:
 
    ```bash
    cd pucrs-desenvolvimento-sistemas-frontend-fase-2
